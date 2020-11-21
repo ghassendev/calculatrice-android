@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My tuto</string>
+    <string name="click">Clicked!</string>
+    <string name="result">result</string>
+    <string name="Number1">Number1</string>
+    <string name="Number2">Number2</string>
+    <string name="Sum">Sum</string>
+</resources>
